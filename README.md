@@ -1,6 +1,10 @@
 # Visualizing-COVID-19
 Within months, COVID-19 went from an epidemic to a pandemic. From the first identified case in December 2019, how did the virus spread so fast and widely? In this free R project, we will visualize data from the early months of the coronavirus outbreak to see how this virus grew to be a global pandemic.
 
+## Authors
+I am Very Proud to Be a Part of this Project, Thanks Datacamp
+- [@naemazam](https://www.github.com/naemazam)
+- [@Markus Harrer](https://twitter.com/feststelltaste)
 
 ## 1. From epidemic to pandemic
 <p><img style="float: left; margin:5px 20px 5px 1px; width:40%" src="https://www.nps.gov/aboutus/news/images/CDC-coronavirus-image-23311-for-web.jpg?maxwidth=650&autorotate=false"></p>
@@ -1025,3 +1029,21 @@ run_tests({
     })
 })
 ```
+
+## 🚀 About Me
+I am Naem Azam. I'm Self-taught Python Programmer And an open-source enthusiast and maintainer.
+- [@naemazam](https://www.github.com/naemazam)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://naemazam.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/naem-azam)
+
+  
+
+
+## Contributing
+
+Contributions are always welcome!
+
+make `Pull Request` for ways to get started.
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
