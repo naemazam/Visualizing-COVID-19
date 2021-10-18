@@ -4,7 +4,7 @@ Within months, COVID-19 went from an epidemic to a pandemic. From the first iden
 ## Authors
 I am Very Proud to Be a Part of this Project, Thanks Datacamp
 - [@naemazam](https://www.github.com/naemazam)
-- [@Markus Harrer](https://twitter.com/feststelltaste)
+- [@Richie Cotton](https://www.datacamp.com/instructors/richie)
 
 ## 1. From epidemic to pandemic
 <p><img style="float: left; margin:5px 20px 5px 1px; width:40%" src="https://www.nps.gov/aboutus/news/images/CDC-coronavirus-image-23311-for-web.jpg?maxwidth=650&autorotate=false"></p>
